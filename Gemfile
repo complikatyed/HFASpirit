@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'rails', '4.2.2'
 gem 'sass-rails', '~> 5.0'
+gem 'sorcery'
 gem 'uglifier', '>= 1.3.0'
 
 
